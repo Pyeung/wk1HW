@@ -65,3 +65,8 @@ footer {
     height: 50px;
   }
 
+/* contact page */
+
+.btn {
+    border-radius: 7px;
+}
